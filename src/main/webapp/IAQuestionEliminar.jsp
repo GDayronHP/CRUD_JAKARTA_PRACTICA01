@@ -1,7 +1,7 @@
-<%@ page import="com.tecsup.prj_educacion.modelo.entities.User" %>
-<%@ page import="com.tecsup.prj_educacion.services.IAQuestionService" %>
-<%@ page import="com.tecsup.prj_educacion.services.impl.IAQuestionServiceImpl" %>
-<%@ page import="com.tecsup.prj_educacion.modelo.entities.IAQuestion" %>
+<%@ page import="com.tecsup.prj_fastquiz.modelo.entities.User" %>
+<%@ page import="com.tecsup.prj_fastquiz.services.IAQuestionService" %>
+<%@ page import="com.tecsup.prj_fastquiz.services.impl.IAQuestionServiceImpl" %>
+<%@ page import="com.tecsup.prj_fastquiz.modelo.entities.IAQuestion" %>
 <%@ page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

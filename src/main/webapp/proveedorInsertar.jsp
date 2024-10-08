@@ -1,4 +1,4 @@
-<%@ page import="com.tecsup.prj_educacion.modelo.entities.Administrador" %>
+<%@ page import="com.tecsup.prj_fastquiz.modelo.entities.Administrador" %>
 <%@ page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

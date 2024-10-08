@@ -1,5 +1,5 @@
-<%@ page import="com.tecsup.prj_educacion.modelo.entities.User" %>
-<%@ page import="com.tecsup.prj_educacion.modelo.entities.User" %>
+<%@ page import="com.tecsup.prj_fastquiz.modelo.entities.User" %>
+<%@ page import="com.tecsup.prj_fastquiz.modelo.entities.User" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -8,7 +8,7 @@
     if(misesion.getAttribute("eladministrador")==null){
         response.sendRedirect("error.jsp");
     }else{
-        com.tecsup.prj_educacion.modelo.entities.User adm = (User)misesion.getAttribute("eladministrador");
+        com.tecsup.prj_fastquiz.modelo.entities.User adm = (User)misesion.getAttribute("eladministrador");
         String nombre = adm.getName();
 %>
 <head>

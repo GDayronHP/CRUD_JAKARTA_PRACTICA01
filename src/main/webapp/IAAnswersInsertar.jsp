@@ -1,6 +1,6 @@
-<%@ page import="com.tecsup.prj_educacion.modelo.entities.User" %>
-<%@ page import="com.tecsup.prj_educacion.services.IAAnswersService" %>
-<%@ page import="com.tecsup.prj_educacion.services.impl.IAAnswersServiceImpl" %>
+<%@ page import="com.tecsup.prj_fastquiz.modelo.entities.User" %>
+<%@ page import="com.tecsup.prj_fastquiz.services.IAAnswersService" %>
+<%@ page import="com.tecsup.prj_fastquiz.services.impl.IAAnswersServiceImpl" %>
 <%@ page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

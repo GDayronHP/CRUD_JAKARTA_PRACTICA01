@@ -1,7 +1,7 @@
-<%@ page import="com.tecsup.prj_educacion.modelo.entities.Administrador" %>
-<%@ page import="com.tecsup.prj_educacion.modelo.entities.Proveedor" %>
-<%@ page import="com.tecsup.prj_educacion.services.ProveedorService" %>
-<%@ page import="com.tecsup.prj_educacion.services.impl.ProveedorServiceImpl" %>
+<%@ page import="com.tecsup.prj_fastquiz.modelo.entities.Administrador" %>
+<%@ page import="com.tecsup.prj_fastquiz.modelo.entities.Proveedor" %>
+<%@ page import="com.tecsup.prj_fastquiz.services.ProveedorService" %>
+<%@ page import="com.tecsup.prj_fastquiz.services.impl.ProveedorServiceImpl" %>
 <%@ page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
